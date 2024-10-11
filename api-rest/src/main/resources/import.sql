@@ -1,0 +1,11 @@
+INSERT INTO cliente(fecha_crecion,telefono,apellido,email,nombre) VALUES ("2024-10-03",6545645,"Perez","jp@email.com","Jose");
+INSERT INTO cliente(fecha_crecion,telefono,apellido,email,nombre) VALUES ("2024-10-03",6545645,"Lopez","jp@email.com","Daniel");
+INSERT INTO cliente(fecha_crecion,telefono,apellido,email,nombre) VALUES ("2024-10-03",6545645,"Ramirez","jp@email.com","Dina");
+INSERT INTO cliente(fecha_crecion,telefono,apellido,email,nombre) VALUES ("2024-10-03",6545645,"Roman","jp@email.com","Mirna");
+INSERT INTO cliente(fecha_crecion,telefono,apellido,email,nombre) VALUES ("2024-10-03",6545645,"Ferreira","jp@email.com","Juan");
+INSERT INTO cliente(fecha_crecion,telefono,apellido,email,nombre) VALUES ("2024-10-03",1234567,"Diaz","bd@email.com","Blanca");
+INSERT INTO cliente(fecha_crecion,telefono,apellido,email,nombre) VALUES ("2024-10-03",6545645,"Iglesias","jp@email.com","Enrique");
+INSERT INTO cliente(fecha_crecion,telefono,apellido,email,nombre) VALUES ("2024-10-03",6545645,"Gonzalez","jp@email.com","Ramon");
+INSERT INTO cliente(fecha_crecion,telefono,apellido,email,nombre) VALUES ("2024-10-03",6545645,"Chavez","jp@email.com","Pedro");
+INSERT INTO cliente(fecha_crecion,telefono,apellido,email,nombre) VALUES ("2024-10-03",6545645,"Sanchez","jp@email.com","Lucas");
+INSERT INTO cliente(fecha_crecion,telefono,apellido,email,nombre) VALUES ("2024-10-03",6545645,"Mojica","jp@email.com","Victor");
